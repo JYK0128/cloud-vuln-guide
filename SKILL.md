@@ -1,5 +1,5 @@
 ---
-name: cloud-vuln-guide
+name: isms-cloud-vuln-guide
 version: 1.0.0
 author: JYK0128
 license: CC BY 4.0 (KISA Checklist Reference)
